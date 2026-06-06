@@ -3,3 +3,6 @@ Asbed Rodriguez
 Fernando Alarcon
 Hiram Quintana
 Blanca Chavarria
+Arturo Valladares
+Sheila Santoyo
+Jaqueline Salazar
