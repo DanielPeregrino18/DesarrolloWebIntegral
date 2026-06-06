@@ -6,3 +6,5 @@ Blanca Chavarria
 Arturo Valladares
 Sheila Santoyo
 Jaqueline Salazar
+Edwin Ledezma
+Moira Villalobos
