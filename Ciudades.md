@@ -2,3 +2,5 @@ Chihuahua
 Juárez
 Aldama
 Tijuana
+Tamaulipas
+Culiacan
